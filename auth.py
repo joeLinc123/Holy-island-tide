@@ -1,0 +1,6 @@
+consumer_key = 'cHy6EC0abRKw4w9xgTNV6NGLA'
+consumer_secret = 'fGyVQNQGwK2QmwNdriyrc8rTlEui6yeuasGxDeD76wwpExb9il'
+access_token = '1606283548679348225-Ho68XVTf2HXFmrwzvLkBGIsR604EXx'
+access_token_secret = '5uwZRRqaIDvYnivRQAa4lBnrAmCSkdTEExdHLu0DGZdce'
+client_id='RHBESF9YZ0J3WXpNRTlrNnZXZFI6MTpjaQ'
+client_secret='GLL_hDkXUz6qqQqM6mGoFLO1fcgKilLyRnbqgildyREiybXlmE'
